@@ -1,0 +1,4 @@
+Nhóm em hiện tại chưa làm được chương trình mô phỏng, chỉ thực hiện chương trình bằng menu trong <file>.cpp.
+Chương trình trong <file>.cpp rất dễ thực hiện:
+Bằng cách mở <file>.cpp bằng codeblock, visual studio hoặc các phần mềm 
+có hỗ trợ dịch, chạy ngôn ngữ C++ là sẽ chạy được chương trình ạ.
